@@ -1,13 +1,10 @@
 0#!/bin/bash
 # Authors : Xingxuan Tang
-# Date: 1/1/2019
+# Date: 2/1/2019
 
 #Problem 1 Code:
 #Make sure to document how you are solving each problem!
 
-#!/bin/bash
-# Author : Your Name
-# Date: 1/1/2019
 # Script follows here:
 
 
